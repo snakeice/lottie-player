@@ -1,0 +1,10 @@
+{
+	"name": "lottie-player\r",
+	"description": "A player of lottie files (Arbnb - bodymovin)\r",
+	"version": "0.0.1\r",
+	"private": false,
+	"homepage": "",
+	"mainsrc": "src/",
+	"supported": "20\r",
+	"dprojFile": ""
+}
